@@ -1,0 +1,26 @@
+Sun Oct 20 01:59:59 2019
+[Success][register] : test4 123 succeed
+
+Sun Oct 20 02:00:09 2019
+[Success][log in] : empty log in success 
+
+Sun Oct 20 02:00:36 2019
+[Success][create meeting] succeed 
+
+Sun Oct 20 02:01:16 2019
+[Success][create meeting] succeed 
+
+Sun Oct 20 02:01:45 2019
+[Wrong]: 
+Error: conflict time wrong !
+createMeeting: people in shedule conflict !
+
+Sun Oct 20 02:02:01 2019
+[Success][list all meetings] : success
+
+Sun Oct 20 02:02:03 2019
+[Success][list all users] : success
+
+Sun Oct 20 02:02:07 2019
+[Success][list all sponsor meetings] : success
+
